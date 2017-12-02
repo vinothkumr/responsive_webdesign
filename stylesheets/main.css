@@ -1,0 +1,46 @@
+.logo{
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+.articles-header{
+	margin-top: 40px;
+	color: #7d97ad;
+	font-size: 40px;
+}
+
+.large-text{
+	font-size: 40px;
+}
+
+.small-text{
+	font-size: 18px;
+}
+
+.lrg_head{
+	font-size: 60px;
+}
+
+.small_head{
+	font-size: 25px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.bold_text_color{
+	color: #2d3c49
+}
+
+/*Override Bootstrap. Make sure custom css is defined below bootstrap css */
+.carousel img {
+    min-width: 100%;
+}
+
+.page-header{
+	color: #2d3c49;
+	border-bottom:4px solid #7d97ad;
+}
+/*Override BootStrap*/
+
+
